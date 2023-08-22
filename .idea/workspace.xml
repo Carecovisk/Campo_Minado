@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70b0721a-7fc9-44b4-93c6-47955bd25d95" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aplication/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aplication/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aplication/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aplication/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aplication/UI.java" afterDir="false" />
-    </list>
+    <list default="true" id="70b0721a-7fc9-44b4-93c6-47955bd25d95" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "feature-interface",
+    "git-widget-placeholder": "developer",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
