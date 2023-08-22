@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70b0721a-7fc9-44b4-93c6-47955bd25d95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aplication/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aplication/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aplication/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aplication/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aplication/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aplication/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aplication/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aplication/UI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature-interface",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",

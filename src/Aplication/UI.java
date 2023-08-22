@@ -1,15 +1,32 @@
 package Aplication;
 
+import java.util.Scanner;
+
 public class UI {
     public static final String ANSI_BLUE_BACKGROUND = "\u001B[44m";
     public static final String ANSI_RED_BACKGROUND = "\u001B[41m";
     public static final String ANSI_RESET = "\u001B[0m";
 
-    static public void start() {
+    static public int start() {
         System.out.println("Chose the difficulty:");
-        System.out.println("Easy (10 x 10)");
-        System.out.println("Medium (18 x 18)");
-        System.out.println("Hard (24 x 24)");
+        System.out.println("Easy (10 x 10): Type E");
+        System.out.println("Medium (18 x 18): Type M");
+        System.out.println("Hard (24 x 24): Type H");
+        System.out.print("-> ");
+
+        Scanner scanner = new Scanner(System.in);
+         char r =  scanner.nextLine().toLowerCase().charAt(0);
+
+        switch (r) {
+            case 'e':
+                return 10;
+            case 'm':
+                return 18;
+            case 'h':
+                return 24;
+            default:
+                throw new IllegalArgumentException();
+        }
     }
 
     public static void clearScreen() {
