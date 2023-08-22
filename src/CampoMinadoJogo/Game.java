@@ -1,4 +1,6 @@
-package Aplication;
+package CampoMinadoJogo;
+
+import CampoMinadoJogo.Square;
 
 public class Game {
     private final Square[][] board;

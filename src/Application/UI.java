@@ -1,4 +1,6 @@
-package Aplication;
+package Application;
+
+import CampoMinadoJogo.Game;
 
 import java.util.Scanner;
 
